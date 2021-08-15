@@ -1,8 +1,8 @@
 import "./projectTiles.css"
 
-export default function projectTiles() {
+export default function ProjectTiles() {
     return (
-        <div className="projectTiles">
+        <div className="projectTiles" id="projectTiles">
 
         </div>
     )

@@ -2,7 +2,7 @@ import Topbar from "./components/topbar/Topbar";
 import Intro from "./components/intro/Intro"
 import Portfolio from "./components/portfolio/Portfolio"
 import Works from "./components/works/Works"
-import projectTiles from "./components/projectTiles/projectTiles"
+import ProjectTiles from "./components/projectTiles/ProjectTiles"
 import Contacts from "./components/contacts/Contacts"
 import "./app.css"
 
@@ -14,7 +14,7 @@ function App() {
         <Intro/>
         <Portfolio/>
         <Works/>
-        <projectTiles/>
+        <ProjectTiles/>
         <Contacts/>
       </div>
     </div>
